@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "65B021B343FE8FB2A6EEFF67200E57B8",
+  "keywordClasses": [
+    {
+      "name": "stepDefinition.FilterLogout",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}
